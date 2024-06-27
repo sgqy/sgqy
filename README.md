@@ -41,3 +41,10 @@
 </div>
 
 ![cover](cover.jpg)
+
+<!-- 
+
+kill some shameless mirror site.
+声援 编程随想 阮晓寰先生
+
+-->

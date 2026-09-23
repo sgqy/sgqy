@@ -4,9 +4,7 @@
 
 <h1>
 
-一個月才幾百塊錢
-\
-你他媽玩什麼命啊
+I use light theme, always.
 
 </h1>
 

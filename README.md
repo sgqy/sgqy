@@ -10,6 +10,8 @@ I use light theme, always.
 
 </h1>
 
+<img width="1280" height="914" alt="B7DB1B1D201AB10AA6707FFF4B5CB43A" src="https://github.com/user-attachments/assets/eb80408d-4119-4dea-a1c8-2fd88485495c" />
+
 </div>
 
 </div>
